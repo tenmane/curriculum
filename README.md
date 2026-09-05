@@ -6,8 +6,6 @@ Lessons are structured through a combination of original written content and a c
 
 This repo contains the actual lesson files used on our website. For the actual TOP app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main TOP repo](https://github.com/TheOdinProject/theodinproject).
 
-Our community can be found on the [TOP Discord server](https://discord.gg/fbFCkYabZB).
-
 This is a test contribution.
 ## Contributing
 
